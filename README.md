@@ -8,10 +8,26 @@ Recém-graduado em Análise e Desenvolvimento de Sistemas, focado em criar solu�
 - 💼 Buscando oportunidades como **Dev Júnior** ou **Analista de TI**.
 
 ### 🛠️ Tech Stack
-**Front-end:** React.js, HTML5, CSS3, Flutter (Mobile)
-**Back-end:** C# (.NET), PHP, Dart (Shelf), Python
-**Database:** SQL (MySQL), MongoDB
 
+**Front-end**
+<br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+
+**Back-end**
+<br>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 ---
 [LinkedIn](https://www.linkedin.com/in/luan-henrique-ventris-de-oliveira) | [Email](mailto:Luan.mar76@gmail.com)
 
