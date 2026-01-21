@@ -3,7 +3,7 @@
 
 Recém-graduado em Análise e Desenvolvimento de Sistemas, focado em criar soluções web e mobile escaláveis.
 
-- 🔭 Atualmente trabalhando em projetos pessoais com **.NET** e **Flutter**.
+- 🔭 Atualmente trabalhando em projetos pessoais com **.NET**, **Flutter**, **PHP (Laravel)**, *HTML CSS JS*, *ReactJS*.
 - 🎓 Formado pela UNISO (Dez/2025).
 - 💼 Buscando oportunidades como **Dev Júnior** ou **Analista de TI**.
 
