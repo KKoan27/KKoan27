@@ -1,4 +1,4 @@
-# Olá, eu sou o Luan! 👋
+# Olá, eu sou o Luan! 
 ### Desenvolvedor Full Stack Júnior | .NET | PHP | React | Flutter
 
 Recém-graduado em Análise e Desenvolvimento de Sistemas, focado em criar soluções web e mobile escaláveis.
